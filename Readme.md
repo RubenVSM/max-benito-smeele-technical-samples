@@ -14,7 +14,7 @@ Note: Due to confidentiality agreements, this code serves as a technical showcas
 
 - [Descripción general / Overview](#descripción-general--overview)
 - [Tecnologías / Technologies](#tecnologías--technologies)
-- [Estructura del proyecto / Project-structure)
+- [Estructura del proyecto / Project-structure](#estructura-del-proyecto--projects-structure)
 - [Instalación / Installation](#instalación--installation)
 - [Uso / Usage](#uso--usage)
 - [Despliegue / Deployment](#despliegue--deployment)
